@@ -15,4 +15,4 @@ Sistem operasi (operating system/OS) adalah seperangkat program yang mengelola s
 
 Dapatkan materi pembelajaran Sistem Operasi [disini](https://lubnasyifa9.github.io/os201/URLs) untuk menambah wawasan kamu mengenai Sistem Operasi!
   
-Lubna Fairuz Zafira - C - 1806235624
+_Lubna Fairuz Zafira - C - 1806235624_
