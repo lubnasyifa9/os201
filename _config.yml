@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+title: Belajar Sistem Operasi
+description: Sistem Operasi adalah perangkat lunak sistem yang mengatur sumber daya dari perangkat keras(Hardware) dan perangkat lunak(Software), serta sebagai jurik (daemon) untuk program komputer. Tanpa sistem operasi, pengguna tidak dapat menjalankan program aplikasi pada komputer mereka, kecuali program booting.
+
+show_downloads: true
+google_analytics:
