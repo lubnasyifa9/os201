@@ -1,0 +1,37 @@
+Script started on Tue 09 Jun 2020 12:59:04 AM WIB
+lubna.fairuz@badak:~$ PS1="$ "
+$ echo $GitHubUser
+lubnasyifa9
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200609-005930-7c83-lubna.fairuz/>
+$ PS1="\$(eval \$PSTAMP)"
+200609-005937-12cb-lubna.fairuz/> echo -e $CEKSAYA
+lubnasyifa9 ZCZCSCRIPTSTART 200606-224737 lubnasyifa9
+lubnasyifa9 lubnasyifa9 200606-224803-ef13-lubna.fairuz/ 200606-224803 SEQOK SUMOK ef136677
+lubnasyifa9 lubnasyifa9 200606-224812-70e5-lubna.fairuz/ 200606-224812 SEQOK SUMOK 70e5c6a1
+lubnasyifa9 lubnasyifa9 200606-224816-f429-lubna.fairuz/ 200606-224816 SEQOK SUMOK f4293c34
+lubnasyifa9 lubnasyifa9 200606-224830-67c0-lubna.fairuz/ 200606-224830 SEQOK SUMOK 67c052df
+lubnasyifa9 ZCZCSCRIPTSTOP 200606-224845 SEQOK
+
+200609-005943-d97b-lubna.fairuz/> echo -e $CEKSEBELA1
+lubnasyifa9 ZCZCSCRIPTSTART 200608-122642 luqman-maulana
+lubnasyifa9 luqman-maulana 200608-122722-f90b-luqman.maulana/ 200608-122722 SEQOK SUMOK f90bce4d
+lubnasyifa9 luqman-maulana 200608-122727-e4e9-luqman.maulana/ 200608-122727 SEQOK SUMOK e4e92dba
+lubnasyifa9 luqman-maulana 200608-122733-e230-luqman.maulana/ 200608-122733 SEQOK SUMOK e230a690
+lubnasyifa9 luqman-maulana 200608-122739-3657-luqman.maulana/ 200608-122739 SEQOK SUMOK 36573ff7
+lubnasyifa9 ZCZCSCRIPTSTOP 200608-122745 SEQOK
+
+200609-005951-27cd-lubna.fairuz/> echo -e $CEKSEBELA2
+lubnasyifa9 ZCZCSCRIPTSTART 200601-234903 lubnasyifa9
+lubnasyifa9 luthfiidrus 200601-235027-cf6f-muhammad.luthfi82/ 200601-235027 SEQOK SUMOK cf6fca50
+lubnasyifa9 luthfiidrus 200601-235033-d84a-muhammad.luthfi82/ 200601-235033 SEQOK SUMOK d84afa21
+lubnasyifa9 luthfiidrus 200601-235042-4616-muhammad.luthfi82/ 200601-235042 SEQOK SUMOK 461634e9
+lubnasyifa9 luthfiidrus 200601-235050-6124-muhammad.luthfi82/ 200601-235050 SEQOK SUMOK 6124eedb
+lubnasyifa9 ZCZCSCRIPTSTOP 200601-235057 SEQOK
+
+200609-005957-b3db-lubna.fairuz/> exit
+exit
+
+Script done on Tue 09 Jun 2020 01:00:00 AM WIB
